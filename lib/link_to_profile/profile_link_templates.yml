@@ -1,0 +1,4 @@
+twitter:  'http://twitter.com/{{username}}'
+github:   'http://github.com/{{username}}'
+facebook: 'http://facebook.com/{{username}}'
+linkedin: 'http://linkedin.com/in/{{username}}'
